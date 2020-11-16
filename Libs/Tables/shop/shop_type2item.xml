@@ -608,7 +608,7 @@
       <row amount="10" default_on="True" item_id="c27e73bd-05db-42c5-963e-09c42395160a" shop_type_id="40" />
       <row amount="5" default_on="True" item_id="c64b7286-07b8-4bdf-afd0-359171d35249" shop_type_id="40" />
       <row amount="1" default_on="False" item_id="15a92bc2-d1f3-438f-a104-c1fc7bd71996" shop_type_id="41" />
-      <row amount="10000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="41" />
+      <row amount="100000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="41" />
       <row amount="1" default_on="False" item_id="7d102b4d-52ae-4abb-84ca-e976c2ccf8ef" shop_type_id="41" />
       <row amount="20" default_on="False" item_id="8d76f58e-a521-4205-a7e8-9ac077eee5f0" shop_type_id="41" />
       <row amount="15" default_on="True" item_id="29a4f58e-6e00-4f9c-9273-1a76e0eccff0" shop_type_id="42" />
@@ -854,14 +854,14 @@
       <row amount="1" default_on="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" shop_type_id="51" />
       <row amount="40" default_on="True" item_id="e5b3f681-3714-4623-97be-4015fa454797" shop_type_id="51" />
       <row amount="1" default_on="True" item_id="f302df91-be9a-4d01-b945-cf1765572914" shop_type_id="51" />
-      <row amount="10000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="52" />
+      <row amount="100000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="52" />
       <row amount="1" default_on="False" item_id="7d102b4d-52ae-4abb-84ca-e976c2ccf8ef" shop_type_id="52" />
       <row amount="20" default_on="False" item_id="8d76f58e-a521-4205-a7e8-9ac077eee5f0" shop_type_id="52" />
       <row amount="1" default_on="False" item_id="9a20ef55-669b-48d6-895f-b568e91f8a13" shop_type_id="52" />
       <row amount="1" default_on="False" item_id="f08ed73b-89a1-43e7-901c-df49885140be" shop_type_id="52" />
       <row amount="1" default_on="False" item_id="4bc80faf-3615-4eba-b1e6-885e1ff76d4f" shop_type_id="53" />
       <row amount="1" default_on="False" item_id="4eba4ef8-7022-4842-a49f-511478b91469" shop_type_id="53" />
-      <row amount="10000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="53" />
+      <row amount="100000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="53" />
       <row amount="1" default_on="False" item_id="7d102b4d-52ae-4abb-84ca-e976c2ccf8ef" shop_type_id="53" />
       <row amount="20" default_on="False" item_id="8d76f58e-a521-4205-a7e8-9ac077eee5f0" shop_type_id="53" />
       <row amount="10" default_on="False" item_id="0290b689-c01c-480f-b121-bed71ad1f5e0" shop_type_id="54" />
@@ -962,7 +962,7 @@
       <row amount="5" default_on="True" item_id="92c829ca-41f6-40a7-b8d9-aac5159c7a89" shop_type_id="59" />
       <row amount="20" default_on="True" item_id="9fa3000e-3807-48a8-bed8-81427f0bda55" shop_type_id="59" />
       <row amount="5" default_on="True" item_id="b38c34b7-6016-4f64-9ba2-65e1ce31d4a1" shop_type_id="59" />
-      <row amount="10000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="60" />
+      <row amount="100000" default_on="False" item_id="5ef63059-322e-4e1b-abe8-926e100c770e" shop_type_id="60" />
       <row amount="1" default_on="False" item_id="7d102b4d-52ae-4abb-84ca-e976c2ccf8ef" shop_type_id="60" />
       <row amount="20" default_on="False" item_id="8d76f58e-a521-4205-a7e8-9ac077eee5f0" shop_type_id="60" />
       <row amount="1" default_on="False" item_id="c449a063-f58b-4ab5-8df1-d24d71384630" shop_type_id="60" />
