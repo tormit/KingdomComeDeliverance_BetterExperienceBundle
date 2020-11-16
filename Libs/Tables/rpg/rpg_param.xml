@@ -6,8 +6,8 @@
       <column name="rpg_param_value" type="real" />
     </header>
     <rows>
-      <row rpg_param_key="AimSpreadMax" rpg_param_value="15" />
-      <row rpg_param_key="AimStamCost" rpg_param_value="20" />
+      <row rpg_param_key="AimSpreadMax" rpg_param_value="7.5" />
+      <row rpg_param_key="AimStamCost" rpg_param_value="10" />
       <row rpg_param_key="AlcoholContentFPAntidoteThreshold" rpg_param_value="60" />
       <row rpg_param_key="AlcoholDigestSpeedModfifOnEmptyStomache" rpg_param_value="2" />
       <row rpg_param_key="AlcoholDrunkMaxExhaustNegativeEffect" rpg_param_value="0.005" />
@@ -21,12 +21,12 @@
       <row rpg_param_key="AlcoholMaxVITEffect" rpg_param_value="2" />
       <row rpg_param_key="AlcoholMoodMaxExhaustPossitiveEffect" rpg_param_value="0.0002" />
       <row rpg_param_key="AlcoholMoodThreshold" rpg_param_value="0.01" />
-      <row rpg_param_key="AlchemyXPPerSuccessfullBrewing" rpg_param_value="40" />
+      <row rpg_param_key="AlchemyXPPerSuccessfullBrewing" rpg_param_value="120" />
       <row rpg_param_key="ArmorDefenseToAttackingWeaponStatus" rpg_param_value="0.02" />
       <row rpg_param_key="BarterPriceSellRepBuying" rpg_param_value="1.5" />
       <row rpg_param_key="BarterPriceSellRepCoef" rpg_param_value="1.5" />
       <row rpg_param_key="BaseAttackStaminaCost" rpg_param_value="12" />
-      <row rpg_param_key="BaseInventoryCapacity" rpg_param_value="66" />
+      <row rpg_param_key="BaseInventoryCapacity" rpg_param_value="300" />
       <row rpg_param_key="BaseItemDisappearingTime" rpg_param_value="172800" />
       <row rpg_param_key="BasketSuspiciencyNoDealThreashold" rpg_param_value="9999999" />
       <row rpg_param_key="ClassCourageMoraleWeight" rpg_param_value="0" />
@@ -64,12 +64,13 @@
       <row rpg_param_key="FoodHealSpeed" rpg_param_value="2" />
       <row rpg_param_key="FoodPoisoningThreshold" rpg_param_value="0.0005" />
       <row rpg_param_key="HealthDamageToInjury" rpg_param_value="0.03" />
-      <row rpg_param_key="HerbGatherSkillToRadius" rpg_param_value="0.25" />
+      <row rpg_param_key="HerbGatherSkillToRadius" rpg_param_value="0.5" />
+	  <row rpg_param_key="HerbGatherXP" rpg_param_value="50" />
       <row rpg_param_key="HorseMoraleToThrowOffRider" rpg_param_value="0.2" />
       <row rpg_param_key="HorseMountMaxRelativeEncumberance" rpg_param_value="1.5" />
-      <row rpg_param_key="HorseRidingAwardDistance" rpg_param_value="500" />
+      <row rpg_param_key="HorseRidingAwardDistance" rpg_param_value="200" />
       <row rpg_param_key="HorseRidingToHorseCourage" rpg_param_value="0.05" />
-      <row rpg_param_key="HorseRidingXPPerDistance" rpg_param_value="12.5" />
+      <row rpg_param_key="HorseRidingXPPerDistance" rpg_param_value="15" />
       <row rpg_param_key="HorseWithMaxStatsPrice" rpg_param_value="3115" />
       <row rpg_param_key="HorseWithMinStatsPrice" rpg_param_value="-650" />
       <row rpg_param_key="HoundmasterXPContextCommand" rpg_param_value="2" />
@@ -80,7 +81,7 @@
       <row rpg_param_key="HoundmasterXPPlay" rpg_param_value="15" />
       <row rpg_param_key="HoundmasterXPPOIDiscovery" rpg_param_value="20" />
       <row rpg_param_key="HoundmasterXPPraise" rpg_param_value="15" />
-      <row rpg_param_key="HunterXPKill" rpg_param_value="15" />
+      <row rpg_param_key="HunterXPKill" rpg_param_value="50" />
       <row rpg_param_key="IndulgenceBasePrice" rpg_param_value="200" />
       <row rpg_param_key="IndulgenceMinCumulativeReputationImprovement" rpg_param_value="0.5" />
       <row rpg_param_key="ItemHealthPriceStatusWeight" rpg_param_value="0.8" />
@@ -89,8 +90,8 @@
       <row rpg_param_key="LockPickingCursorShakeRange" rpg_param_value="0.08" />
       <row rpg_param_key="LockPickingCursorShakeSpeed" rpg_param_value="30" />
       <row rpg_param_key="LockPickingSkillToShakeRel" rpg_param_value="0.03" />
-      <row rpg_param_key="LockPickingStealthXP" rpg_param_value="8" />
-      <row rpg_param_key="LockPickingSuccessXPMulCoef" rpg_param_value="18" />
+      <row rpg_param_key="LockPickingStealthXP" rpg_param_value="50" />
+      <row rpg_param_key="LockPickingSuccessXPMulCoef" rpg_param_value="20" />
       <row rpg_param_key="LockPickingTurnBackMulCoef" rpg_param_value="5" />
       <row rpg_param_key="MaxDamage" rpg_param_value="200" />
       <row rpg_param_key="MaxDmgR" rpg_param_value="4" />
@@ -109,7 +110,7 @@
       <row rpg_param_key="MinPedalCost" rpg_param_value="1" />
       <row rpg_param_key="MinStealthHitSoundMultiplier" rpg_param_value="0.06" />
       <row rpg_param_key="MinViewRadius" rpg_param_value="2.5" />
-      <row rpg_param_key="NonSkillBookXP" rpg_param_value="30" />
+      <row rpg_param_key="NonSkillBookXP" rpg_param_value="90" />
       <row rpg_param_key="NPCRepWeight" rpg_param_value="5" />
       <row rpg_param_key="PerceptionPriorBoostPlayer" rpg_param_value="12" />
       <row rpg_param_key="PerceptionPriorCrimeLockpick" rpg_param_value="12" />
@@ -122,11 +123,11 @@
       <row rpg_param_key="PickpocketingFailXPMod" rpg_param_value="0.3" />
       <row rpg_param_key="PickpocketingIndicatorSharpness" rpg_param_value="0" />
       <row rpg_param_key="PickpocketingMisstargetingTolerance" rpg_param_value="2000" />
-      <row rpg_param_key="PickpocketingStealthXP" rpg_param_value="12" />
-      <row rpg_param_key="PickpocketingXP" rpg_param_value="15" />
+      <row rpg_param_key="PickpocketingStealthXP" rpg_param_value="50" />
+      <row rpg_param_key="PickpocketingXP" rpg_param_value="75" />
       <row rpg_param_key="QuestMoneyRewardScaleConstant" rpg_param_value="1.2" />
       <row rpg_param_key="RangedWpnSelfHarmCoef" rpg_param_value="15" />
-      <row rpg_param_key="ReadingXpPerHour" rpg_param_value="20" />
+      <row rpg_param_key="ReadingXpPerHour" rpg_param_value="40" />
       <row rpg_param_key="RecognitionTimeDistanceGain" rpg_param_value="0.1" />
       <row rpg_param_key="RecognitionTimeKNegativeCoef" rpg_param_value="-6" />
       <row rpg_param_key="RecognitionTimeKPositiveCoef" rpg_param_value="-3" />
@@ -134,7 +135,9 @@
       <row rpg_param_key="RelationshipToImpressCharisma" rpg_param_value="0.8" />
       <row rpg_param_key="RelationshipToPersuadeSpeech" rpg_param_value="0.8" />
       <row rpg_param_key="RelationshipToThreatenBadassness" rpg_param_value="0.8" />
-      <row rpg_param_key="RepairKitCapacity" rpg_param_value="200" />
+      <row rpg_param_key="RepairKitCapacity" rpg_param_value="10000" />
+	  <row rpg_param_key="RepairKitItemHealthBestLimit" rpg_param_value="0.1" />
+      <row rpg_param_key="RepairKitItemHealthDefaultLimit" rpg_param_value="0.1" />
       <row rpg_param_key="RepairPriceModif" rpg_param_value="0.65" />
       <row rpg_param_key="ReputationPropagationCoef" rpg_param_value="0.3" />
       <row rpg_param_key="ResetPublicFriendsRelationshipMin" rpg_param_value="0.15" />
@@ -145,18 +148,18 @@
       <row rpg_param_key="SkillToDefense" rpg_param_value="0.02857" />
       <row rpg_param_key="SkillToDmgConstA" rpg_param_value="250" />
       <row rpg_param_key="SkillToFencingBase" rpg_param_value="0.8" />
-      <row rpg_param_key="SkillXPBlock" rpg_param_value="2" />
-      <row rpg_param_key="SkillXPComboHit" rpg_param_value="4" />
-      <row rpg_param_key="SkillXPHit" rpg_param_value="2" />
-      <row rpg_param_key="SkillXPKill" rpg_param_value="12" />
+      <row rpg_param_key="SkillXPBlock" rpg_param_value="4" />
+      <row rpg_param_key="SkillXPComboHit" rpg_param_value="5" />
+      <row rpg_param_key="SkillXPHit" rpg_param_value="8" />
+      <row rpg_param_key="SkillXPKill" rpg_param_value="50" />
       <row rpg_param_key="SkillXPPerfectBlock" rpg_param_value="8" />
       <row rpg_param_key="SkillXPRiposte" rpg_param_value="8" />
       <row rpg_param_key="SkillXPUseRepairKit" rpg_param_value="5" />
       <row rpg_param_key="SpeechXPLevelBase" rpg_param_value="20" />
       <row rpg_param_key="SpeechXPLevelDiff" rpg_param_value="30" />
-      <row rpg_param_key="SprintCost" rpg_param_value="3.5" />
+      <row rpg_param_key="SprintCost" rpg_param_value="1.5" />
       <row rpg_param_key="StamDamage" rpg_param_value="8" />
-      <row rpg_param_key="StamRegenBase" rpg_param_value="22" />
+      <row rpg_param_key="StamRegenBase" rpg_param_value="40" />
       <row rpg_param_key="StamRegenBlockMod" rpg_param_value="0.6" />
       <row rpg_param_key="StamRegenCooldown" rpg_param_value="1.5" />
       <row rpg_param_key="StamRegenFromVit" rpg_param_value="1" />
@@ -165,17 +168,17 @@
       <row rpg_param_key="StarvationPlayerEffectMaxMin" rpg_param_value="120" />
       <row rpg_param_key="StarvationPlayerEffectMinMax" rpg_param_value="45" />
       <row rpg_param_key="StarvationPlayerEffectMinMin" rpg_param_value="90" />
-      <row rpg_param_key="StatXPComboHit" rpg_param_value="4" />
-      <row rpg_param_key="StatXPHit" rpg_param_value="2" />
-      <row rpg_param_key="StatXPKill" rpg_param_value="8" />
-      <row rpg_param_key="StatXPSpeechPerSequence" rpg_param_value="1" />
+      <row rpg_param_key="StatXPComboHit" rpg_param_value="8" />
+      <row rpg_param_key="StatXPHit" rpg_param_value="4" />
+      <row rpg_param_key="StatXPKill" rpg_param_value="16" />
+      <row rpg_param_key="StatXPSpeechPerSequence" rpg_param_value="4" />
       <row rpg_param_key="StatXPVitalityPerDistance" rpg_param_value="8" />
-      <row rpg_param_key="StatXPVitalityPerJump" rpg_param_value="0.5" />
-      <row rpg_param_key="StatXPVitalityPerKill" rpg_param_value="15" />
-      <row rpg_param_key="StatXPVitalityPerVault" rpg_param_value="0.7" />
+      <row rpg_param_key="StatXPVitalityPerJump" rpg_param_value="1.75" />
+      <row rpg_param_key="StatXPVitalityPerKill" rpg_param_value="30" />
+      <row rpg_param_key="StatXPVitalityPerVault" rpg_param_value="1" />
       <row rpg_param_key="StealthAttackFailXp" rpg_param_value="10" />
-      <row rpg_param_key="StealthAttackMaxXp" rpg_param_value="50" />
-      <row rpg_param_key="StealthAttackMinXp" rpg_param_value="25" />
+      <row rpg_param_key="StealthAttackMaxXp" rpg_param_value="60" />
+      <row rpg_param_key="StealthAttackMinXp" rpg_param_value="35" />
       <row rpg_param_key="StealthKillProbCoefA" rpg_param_value="4" />
       <row rpg_param_key="StealthKillProbCoefB" rpg_param_value="1" />
       <row rpg_param_key="StealthKnockOutUnconsciousDepthBase" rpg_param_value="250" />
@@ -188,6 +191,11 @@
       <row rpg_param_key="VitalityXPLevelBase" rpg_param_value="20" />
       <row rpg_param_key="VitalityXPLevelDiff" rpg_param_value="30" />
       <row rpg_param_key="WeaponDefenseToAttackingWeaponStatus" rpg_param_value="0.01" />
+	  <row rpg_param_key="BowChargeDurationMin" rpg_param_value="1.3" />
+      <row rpg_param_key="BowChargeDurationMax" rpg_param_value="1.75" />
+	  <row rpg_param_key="FullClothDirtyingOnFullSpeed" rpg_param_value="9999" />
+      <row rpg_param_key="FullClothDirtyingOnZeroSpeed" rpg_param_value="9999" />
+      <row rpg_param_key="ClothDirtyingUpdatePeriod" rpg_param_value="9999" />
     </rows>
   </table>
 </database>
