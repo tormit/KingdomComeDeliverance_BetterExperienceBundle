@@ -90,8 +90,8 @@
       <row rpg_param_key="LockPickingCursorShakeRange" rpg_param_value="0.01" />
       <row rpg_param_key="LockPickingCursorShakeSpeed" rpg_param_value="15" />
       <row rpg_param_key="LockPickingSkillToShakeRel" rpg_param_value="0.03" />
-      <row rpg_param_key="LockPickingStealthXP" rpg_param_value="50" />
-      <row rpg_param_key="LockPickingSuccessXPMulCoef" rpg_param_value="50" />
+      <row rpg_param_key="LockPickingStealthXP" rpg_param_value="32" />
+      <row rpg_param_key="LockPickingSuccessXPMulCoef" rpg_param_value="36" />
       <row rpg_param_key="LockPickingTurnBackMulCoef" rpg_param_value="5" />
       <row rpg_param_key="MaxDamage" rpg_param_value="200" />
       <row rpg_param_key="MaxDmgR" rpg_param_value="4" />
