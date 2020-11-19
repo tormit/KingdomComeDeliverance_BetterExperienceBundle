@@ -1728,7 +1728,7 @@
       <row entity_script="" item_id="aa9932e8-1f5a-4a96-b97f-24c2a4f0d703" material="" model="props/blacksmith_tools/key_bundle_a" owner_fading_coef="0.02" price="0" visibility_coef="1" weight="0" />
       <row entity_script="" item_id="aaa88f4f-2e8e-4247-9728-4c2ea632277c" material="" model="props/blacksmith_tools/key_bundle_a" owner_fading_coef="0.02" price="0" visibility_coef="1" weight="0" />
       <row entity_script="" item_id="aaad7362-ec12-4e22-885c-075450001468" material="" model="props/butcher/skinned_deer_piece01.cgf" owner_fading_coef="0.02" price="5" visibility_coef="1" weight="0.8" />
-      <row entity_script="" item_id="aac0794c-8fb7-41f5-ba6a-90c313c286b2" material="" model="props/interiors/sacks/sack_02/sack_02_stand" owner_fading_coef="0.02" price="540" visibility_coef="1" weight="0" />
+      <row entity_script="" item_id="aac0794c-8fb7-41f5-ba6a-90c313c286b2" material="" model="props/interiors/sacks/sack_02/sack_02_stand" owner_fading_coef="1" price="100000" visibility_coef="1" weight="0" />
       <row entity_script="" item_id="aac4b102-f039-4e6c-afa5-67b59df2cc11" material="" model="props/cloth_random/scarf_food.chr" owner_fading_coef="1" price="1" visibility_coef="1" weight="1" />
       <row entity_script="" item_id="aaf84a4e-4617-4f74-a3b2-a6c2de25244b" material="weapons/shields/shield_01_rychvald01" model="weapons/shields/shield_01" owner_fading_coef="0.02" price="720" visibility_coef="1" weight="9" />
       <row entity_script="" item_id="ab0b9f53-2b71-483b-ba26-f1499c1f1f03" material="" model="props/alchemy/scroll/scroll" owner_fading_coef="0.02" price="0" visibility_coef="1" weight="1" />

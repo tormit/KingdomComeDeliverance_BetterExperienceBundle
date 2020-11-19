@@ -918,7 +918,7 @@
       <row charisma="9" conspicuousness="0" item_id="a8014877-ce10-4331-88ab-04173b6370ad" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="0" conspicuousness="0.2" item_id="a9d80dd4-2792-463a-9fcb-825677667e69" rpg_buff_weight="1" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="4" conspicuousness="0" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="11" conspicuousness="0.1" item_id="aac0794c-8fb7-41f5-ba6a-90c313c286b2" rpg_buff_weight="0" social_class_id="3" visibility="0" wealth_level="0" />
+      <row charisma="1000" conspicuousness="-50.0" item_id="aac0794c-8fb7-41f5-ba6a-90c313c286b2" rpg_buff_weight="1" social_class_id="14" visibility="-50.0" wealth_level="20" />
       <row charisma="5" conspicuousness="1" item_id="aaf84a4e-4617-4f74-a3b2-a6c2de25244b" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="1" conspicuousness="0.1" item_id="ab62a875-799d-4472-96a1-32b6e8feeaba" rpg_buff_weight="0" social_class_id="1" visibility="0.42" wealth_level="0" />
       <row charisma="0" conspicuousness="0.2" item_id="ac0f228d-b1dd-493d-909d-105b07192ec9" rpg_buff_weight="0.85" social_class_id="0" visibility="0.2" wealth_level="2" />

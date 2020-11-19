@@ -8,6 +8,7 @@ This mod is combination of several other mods and my improvements to make gamepl
 * [Richer Fences](https://www.nexusmods.com/kingdomcomedeliverance/mods/885)
 * [Overpowered Swords - PTF Edition (500%)](https://www.nexusmods.com/kingdomcomedeliverance/mods/1089)
 * [Overpowered Bows - PTF Edition (1000 power)](https://www.nexusmods.com/kingdomcomedeliverance/mods/1084)
+* [Biankas ring plus](https://www.nexusmods.com/kingdomcomedeliverance/mods/113)
 
 
 ### My changes
